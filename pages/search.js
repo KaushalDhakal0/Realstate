@@ -48,7 +48,7 @@ const Search = ({ properties }) => {
         >
           <Image alt="no result" src={noresult} />
           <Text fontSize="2xl" marginTop="3">
-            No Resulte found
+            No Result found
           </Text>
         </Flex>
       )}
